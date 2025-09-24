@@ -13,13 +13,7 @@ Dự án gồm 2 phần chính:
 
 ---
 
-## 📌 Demo giao diện
 
-> *Ảnh minh họa (thay bằng screenshot thực tế)*  
-
-![Demo UI](https://via.placeholder.com/800x400.png?text=Schedule+Planner+Demo)
-
----
 
 ## 📦 Cấu trúc dự án
 
